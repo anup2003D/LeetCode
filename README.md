@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anup2003D/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anup2003D/LeetCode/tree/master/0066-plus-one) |
+| [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

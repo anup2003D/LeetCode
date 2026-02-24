@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anup2003D/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anup2003D/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anup2003D/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |

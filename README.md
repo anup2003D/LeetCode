@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anup2003D/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anup2003D/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anup2003D/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

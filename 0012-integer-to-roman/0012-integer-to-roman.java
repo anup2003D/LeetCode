@@ -12,15 +12,17 @@ class Solution {
                       "X", "IX", "V", "IV",
                       "I"};
         
-        String result="";
+        //String result="";
+        StringBuilder results = new StringBuilder();
 
         for(int i=0; i<values.length; i++){
             while(num>=values[i]){
                 num-=values[i];
-                result+=symbol[i];
+                //result+=symbol[i];
+                results.append(symbol[i]);
             }
         }
-return result;
+        return results.toString();
 
     }
 }

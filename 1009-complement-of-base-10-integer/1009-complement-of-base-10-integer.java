@@ -27,7 +27,7 @@ class Solution {
         reverse(arr);
         // System.out.println(x+" "+n);
         for(int i=0; i<count; i++){
-            System.out.println(arr[i]);
+            //System.out.println(arr[i]);
             arr[i]=Math.abs(arr[i]-1);
             //System.out.println(arr[i]);
         }

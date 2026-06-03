@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/anup2003D/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anup2003D/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anup2003D/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/anup2003D/LeetCode/tree/master/0066-plus-one) |

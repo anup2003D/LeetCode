@@ -6,6 +6,9 @@ class Solution {
                 if(nums[i]+nums[j]==target){
                     a=i; b=j;
                 }
+                else{
+                    continue;
+                }
             }
         }
         return new int[] {a,b};

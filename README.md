@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/anup2003D/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anup2003D/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anup2003D/LeetCode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |

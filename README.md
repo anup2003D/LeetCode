@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
+| [3536-maximum-product-of-two-digits](https://github.com/anup2003D/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/anup2003D/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |

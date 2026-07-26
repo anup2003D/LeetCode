@@ -13,7 +13,7 @@ class Solution {
             }
             n/=10;
         }
-        System.out.print(largest +" "+ secondLargest);
+        
         return secondLargest*largest;
     }
 }

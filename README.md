@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anup2003D/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/anup2003D/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anup2003D/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/anup2003D/LeetCode/tree/master/0867-transpose-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anup2003D/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup2003D/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anup2003D/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup2003D/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |

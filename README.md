@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -116,14 +117,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anup2003D/LeetCode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/anup2003D/LeetCode/tree/master/0867-transpose-matrix) |
 ## Sorting
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anup2003D/LeetCode/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

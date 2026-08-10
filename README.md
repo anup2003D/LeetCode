@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anup2003D/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anup2003D/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/anup2003D/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/anup2003D/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Simulation

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anup2003D/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anup2003D/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anup2003D/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/anup2003D/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anup2003D/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anup2003D/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/anup2003D/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/anup2003D/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anup2003D/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anup2003D/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

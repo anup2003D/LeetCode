@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anup2003D/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anup2003D/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anup2003D/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anup2003D/LeetCode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/anup2003D/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anup2003D/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 ## Memoization
 |  |

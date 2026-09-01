@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anup2003D/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anup2003D/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/anup2003D/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anup2003D/LeetCode/tree/master/0029-divide-two-integers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anup2003D/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anup2003D/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/anup2003D/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anup2003D/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anup2003D/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/anup2003D/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/anup2003D/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anup2003D/LeetCode/tree/master/0509-fibonacci-number) |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anup2003D/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anup2003D/LeetCode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/anup2003D/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anup2003D/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anup2003D/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/anup2003D/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anup2003D/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anup2003D/LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anup2003D/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anup2003D/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |

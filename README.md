@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anup2003D/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/anup2003D/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anup2003D/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Two Pointers
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anup2003D/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anup2003D/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/anup2003D/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/anup2003D/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anup2003D/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anup2003D/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

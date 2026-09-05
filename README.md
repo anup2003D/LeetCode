@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/anup2003D/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anup2003D/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/anup2003D/LeetCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/anup2003D/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/anup2003D/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/anup2003D/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
+| [0905-sort-array-by-parity](https://github.com/anup2003D/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anup2003D/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anup2003D/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/anup2003D/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/anup2003D/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |

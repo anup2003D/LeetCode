@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anup2003D/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/anup2003D/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anup2003D/LeetCode/tree/master/0567-permutation-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anup2003D/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anup2003D/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anup2003D/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anup2003D/LeetCode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/anup2003D/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anup2003D/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anup2003D/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anup2003D/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anup2003D/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anup2003D/LeetCode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/anup2003D/LeetCode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/anup2003D/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anup2003D/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anup2003D/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anup2003D/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anup2003D/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anup2003D/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
